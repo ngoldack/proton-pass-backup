@@ -1,0 +1,18 @@
+{
+    "name": "protonpasstest",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {},
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/bun": "^1.2.5",
+        "prettier": "^3.5.3"
+    },
+    "dependencies": {
+        "cron": "^4.1.0",
+        "playwright": "^1.51.0"
+    }
+}
