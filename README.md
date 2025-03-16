@@ -1,6 +1,6 @@
 # proton-pass-backup
 
-A script for automaticly export your ProtonPass credentials.
+A script to automaticly backup your ProtonPass credentials.
 
 ## Usage
 
