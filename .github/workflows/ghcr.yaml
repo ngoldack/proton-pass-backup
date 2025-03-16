@@ -8,6 +8,11 @@ on:
 
 jobs:
   push-image:
+    permissions:
+      contents: read
+      packages: write
+      attestations: write
+      id-token: write
     runs-on: ubuntu-latest
     steps:
       - name: 'Checkout GitHub Action'
